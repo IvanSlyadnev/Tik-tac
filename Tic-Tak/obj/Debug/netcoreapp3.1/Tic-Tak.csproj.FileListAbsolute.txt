@@ -1,0 +1,17 @@
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic-Tak.csprojAssemblyReference.cache
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic_Tak.ComputerForm.resources
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic_Tak.Form1.resources
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic_Tak.PersonForm.resources
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic-Tak.csproj.GenerateResource.cache
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic-Tak.AssemblyInfoInputs.cache
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic-Tak.AssemblyInfo.cs
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic-Tak.csproj.CoreCompileInputs.cache
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\bin\Debug\netcoreapp3.1\Tic-Tak.exe
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\bin\Debug\netcoreapp3.1\Tic-Tak.deps.json
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\bin\Debug\netcoreapp3.1\Tic-Tak.runtimeconfig.json
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\bin\Debug\netcoreapp3.1\Tic-Tak.runtimeconfig.dev.json
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\bin\Debug\netcoreapp3.1\Tic-Tak.dll
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\bin\Debug\netcoreapp3.1\Tic-Tak.pdb
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic-Tak.dll
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic-Tak.pdb
+C:\Users\Иван Сляднев\source\repos\Tic-Tak\Tic-Tak\obj\Debug\netcoreapp3.1\Tic-Tak.genruntimeconfig.cache
